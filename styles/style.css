@@ -72,9 +72,9 @@ html {
   font-weight: 400;
   font-size: 35px;
   line-height: 1;
+  text-transform: initial;
   text-align: left;
   letter-spacing: normal;
-  text-transform: initial;
   background: #fff;
   white-space: pre;
 }
