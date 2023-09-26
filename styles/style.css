@@ -60,11 +60,12 @@ html {
 .page__title:hover::before {
   content: "На самом деле нет. \AВажнее &mdash; научиться ошибаться.";
   position: absolute;
-  top: 280px;
-  right: 20px;
+  top: 182px;
+  right: 22px;
   z-index: 1;
   max-width: 760px;
   border: 2px solid #000;
+  font-family: "Raleway";
   border-radius: 20px;
   padding: 36px 44px;
   box-shadow: 0 12px 0 #000;
